@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi Github 👋 
 
-<!--
-**jmhthethird/jmhthethird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jack, a Manager and Senior Software Engineer. 
 
-Here are some ideas to get you started:
+#### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Like most folks nowadays I work in the ☁️ cloud.
+
+- 👨‍💻 I'm currently working with a team building an Elixir and Phoenix web app targetted at internal support and operations teams.
+- 🙆‍♂️ My Pronouns are: He/Him
+- 🥳 I enjoy...
+  -  Working with functional languages like Elixir.
+  -  Nerding out about Postgres and other databases.
+  -  Learning new tools for developing robust systems.
+
+💬 Performance and Observability are some of my favorite topics to chat about!
+
+

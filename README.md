@@ -1,6 +1,6 @@
 ### Hi Github 👋 
 
-I'm Jack, a Manager and Senior Software Engineer. 
+I'm Jack, a Senior Software Engineer and Manager. 
 
 #### About Me
 
